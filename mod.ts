@@ -1,1 +1,1 @@
-export * as arrow from "https://cdn.skypack.dev/apache-arrow@8.0.0";
+export * as arrow from "https://cdn.jsdelivr.net/npm/apache-arrow@8.0.0/+esm";
